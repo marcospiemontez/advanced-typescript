@@ -1,3 +1,3 @@
 # advanced-typescript
 
-##Project created for studies
+## Project created for studies
